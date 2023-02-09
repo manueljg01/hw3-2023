@@ -70,7 +70,7 @@ h3{
 
 h1, h2, h3{
     /*Set margin */
-    padding: 15px 25px 10px;
+    margin: 15px 25px 10px;
 
 }
 .grid{
@@ -121,7 +121,7 @@ h1, h2, h3{
 
 p + p {
      /* Set indentation */
-     text-indent: px;
+     text-indent: 10px;
   }
   
 p{
